@@ -2,7 +2,7 @@
 layout: product
 parmalink: 'products/ORTHO_NITRO_TOLUENE_(ONT)'
 parent:  products
-product:  Ortho Nitro Toluene (ONT) 
+product:  ORTHO NITRO TOLUENE (ONT) 
 image: adhesive.jpeg
 cas: 88-72-2
 size: 230 KGS

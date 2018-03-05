@@ -1,8 +1,8 @@
 ---
 layout: product
-parmalink: 'products/4-TERT-OCTYLPHENOL_(PTOP)'
+parmalink: 'products/PARA-TERT-OCTYLPHENOL_(PTOP)'
 parent:  products
-product:  4-tert-Octylphenol (PTOP) 
+product:  PARA-TERT-OCTYLPHENOL (PTOP)
 image: adhesive.jpeg
 cas: 140-66-9
 size: 25 KGS
