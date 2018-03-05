@@ -1106,3 +1106,6 @@ blockquote::before{
     margin-right:-4px;
 }
 
+.row {
+    text-align: center;
+ 
