@@ -2,7 +2,7 @@
 layout: product
 parmalink: 'products/METHACRYLIC_ACID_(MAA)'
 parent:  products
-product:  METHACRYLIC ACID (MAA) 
+product:  METHACRYLIC ACID (MAA)
 image: adhesive.jpeg
 cas:  79-41-4
 size: 200 KGS
