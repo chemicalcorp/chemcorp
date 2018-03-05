@@ -1,6 +1,6 @@
 ---
 layout: product
-parmalink: 'products/Ortho_Nitro_Toluene_(ONT)'
+parmalink: 'products/ORTHO_NITRO_TOLUENE_(ONT)'
 parent:  products
 product:  Ortho Nitro Toluene (ONT) 
 image: adhesive.jpeg

@@ -1,6 +1,6 @@
 ---
 layout: product
-parmalink: 'products/4-tert-Octylphenol_(PTOP)'
+parmalink: 'products/4-TERT-OCTYLPHENOL_(PTOP)'
 parent:  products
 product:  4-tert-Octylphenol (PTOP) 
 image: adhesive.jpeg

@@ -1,6 +1,6 @@
 ---
 layout: product
-parmalink: 'products/Methacrylic_Acid_(MAA)'
+parmalink: 'products/METHACRYLIC_ACID_(MAA)'
 parent:  products
 product:  Methacrylic Acid (MAA) 
 image: adhesive.jpeg
