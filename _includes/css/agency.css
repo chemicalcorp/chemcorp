@@ -485,6 +485,11 @@ section h3.section-subheading {
     display: table;
 }
 
+.table {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
 .timeline>li:after {
     clear: both;
 }
@@ -745,24 +750,16 @@ section#contact:-ms-input-placeholder {
 section#contact .text-danger {
     color: #e74c3c;
 }
-/* 
-footer {
-    background-color:#f5f5f5;
-    height: 120px;
-    padding: 25px 0;
-    text-align: center;
-} */
 
 footer {
-    height: 120px;
-    padding: 25px 0;
+    padding: 25px 0px;
     position: absolute;
     right: 0;
     bottom: 0;
     left: 0;
     background-color: #efefef;
     text-align: center;
-  }
+}
 
 
 footer span.copyright {
@@ -1031,6 +1028,12 @@ blockquote::before{
 }
 @media only screen and (max-width: 768px) {
    
+    .table {
+        margin-top: 50px;
+        margin-bottom: 150px;
+    }
+
+
     .col-centered {
         display: block;
         float:none;
