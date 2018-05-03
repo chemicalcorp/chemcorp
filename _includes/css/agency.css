@@ -3,7 +3,7 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-
+    
 body {
     position: relative;
     margin: 0;
@@ -915,6 +915,7 @@ body {
 .square {
     height: 260px;
     width: 100%;
+    text-align: center;
     color:white;
     margin-bottom: 28px;
     background: rgba(0, 0,0,0.5); 
@@ -1033,16 +1034,6 @@ blockquote::before{
         margin-bottom: 150px;
     }
 
-
-    .col-centered {
-        display: block;
-        float:none;
-        width: 100%;
-        /* reset the text-align */
-        text-align:center;
-        /* inline-block space fix */
-        margin-right:-4px;
-    }
     .navbar-brand img {
         padding: 8px;
         width: 13%;
@@ -1114,17 +1105,3 @@ blockquote::before{
     color: #000000;
     background-color: #fcfcfa;
   }
-  
-  .col-centered {
-    display:inline-block;
-    float:none;
-    /* width: 50%; */
-    /* reset the text-align */
-    text-align:center;
-    /* inline-block space fix */
-    margin-right:-4px;
-}
-
-.row {
-    text-align: center;
- 
